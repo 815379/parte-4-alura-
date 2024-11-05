@@ -1,0 +1,1 @@
+const url = 'https://raw.githubsercontent.com/guilhermeonrails/api8/main/dados-globais.Json'
